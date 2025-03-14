@@ -19,8 +19,3 @@ This repository contains an implementation of a computer vision task focused on 
 
 1. Ensure the required dependencies (`numpy`, `matplotlib`, `PIL`) are installed.
 2. Run the script to process the input image (`Image-1.png`) and visualize the results.
-
-## Group Members
-
-- Syed Sarib Naveed (NIM-BSCS-2021-41)
-- Musawar Hamad Khan (NIM-BSCS-2021-40)
